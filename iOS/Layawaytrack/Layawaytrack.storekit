@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Multiple concurrent plans and payoff-date projection",
+          "displayName": "Layawaytrack Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "layawaytrack_pro",
+      "referenceName": "Layawaytrack Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
