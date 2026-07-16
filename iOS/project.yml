@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: LayawaytrackTests
-      - path: Layawaytrack.storekit
     dependencies:
       - target: Layawaytrack
     settings:
